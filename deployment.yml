@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: cont-1
-        image: nvr333/mynewapp
+        image: shaikmustafa/paytm:bus
         ports:
         - containerPort: 80
